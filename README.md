@@ -29,6 +29,8 @@ npm i json-server
 ## Criar o Frontend
 
 ```
+https://angular.io/
+
 npm i -g @angular/cli
 
 ng new frontend 
