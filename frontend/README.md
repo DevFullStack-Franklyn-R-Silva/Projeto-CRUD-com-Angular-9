@@ -5,6 +5,19 @@ https://material.angular.io/
 
 ng add @angular/material
 ```
+### Gerar component
+
+```
+ng g c
+
+ou 
+
+ng generate component
+
+como usar ex:
+
+ng g c components/template/header
+```
 
 # Frontend
 
