@@ -16,6 +16,7 @@ import { MatSidenavModule } from "@angular/material/sidenav";
 import { RedDirective } from "./directives/red.directive";
 import { HomeComponent } from "./views/home/home.component";
 import { ProductCrudComponent } from "./views/product-crud/product-crud.component";
+import { ForDirective } from './directives/for.directive';
 
 @NgModule({
     declarations: [
@@ -26,6 +27,7 @@ import { ProductCrudComponent } from "./views/product-crud/product-crud.componen
         HomeComponent,
         ProductCrudComponent,
         RedDirective,
+        ForDirective,
     ],
     imports: [
         BrowserModule,
