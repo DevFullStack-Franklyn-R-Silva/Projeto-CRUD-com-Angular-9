@@ -24,6 +24,11 @@
       "name": "teste",
       "price": "9999",
       "id": 5
+    },
+    {
+      "name": "re",
+      "price": "99",
+      "id": 6
     }
   ]
 }
