@@ -1,3 +1,4 @@
+import { HttpClientModule } from "@angular/common/http";
 import { NgModule } from "@angular/core";
 import { MatButtonModule } from "@angular/material/button";
 import { MatCardModule } from "@angular/material/card";
@@ -41,6 +42,7 @@ import { ProductCrudComponent } from "./views/product-crud/product-crud.componen
         AppRoutingModule,
         MatButtonModule,
         MatSnackBarModule,
+        HttpClientModule,
     ],
     providers: [],
     bootstrap: [AppComponent],
